@@ -53,7 +53,9 @@ def chngr(texte):
 print(chngr(texte2))
 
 
-##### Vigenère #Mdp =xova #####
+##### Vigenère #####
+# mot de passe = xova
+# Ce mot de passe a été déterminé grace à la Cryptanalyse de chiffre de Vigenère 
 motpasse = ['x','o','v','a']
 texte3 = "dceuq e n'ehfp cg p'kyhhep uqfw cgiy citudm c gzudiq ni ezhd px c jhptv ep cggsht. kg hdtymdt xdzei gdx rzyq wir mvzxpw, cifcchdb znwd ccyw wy lkcsht, dp isgd uqfw wy ?"
 def viggen(texte,mdp):
